@@ -28,23 +28,26 @@ Specific instructions for the Related Tools are offered in each repository.
 ### SolarWinds Supply Chain Breach 2019-2021
 - [SolarWinds Security Advisory](https://www.solarwinds.com/sa-overview/securityadvisory)
 - [Supply Chain Compromise](https://www.cisa.gov/news-events/alerts/2021/01/07/supply-chain-compromise)
-- [Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://cloud.google.com/blog/topics/threat-intelligence/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor)
-- [The SolarWinds cyberattack: The hack, the victims, and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
-- [Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/en-us/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
-- [Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop](https://www.microsoft.com/en-us/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
-- [SUNSPOT: An Implant in the Build Process](https://www.crowdstrike.com/en-us/blog/sunspot-malware-technical-analysis/)
-- [Early Bird Catches the Wormhole: Observations from the StellarParticle Campaign](https://www.crowdstrike.com/en-us/blog/observations-from-the-stellarparticle-campaign/)
+- [Cisco Talos: FireEye Breach Detection Guidance](https://blog.talosintelligence.com/fireeye-breach-guidance/)
+- [Cisco Talos: Threat Advisory: SolarWinds supply chain attack](https://blog.talosintelligence.com/solarwinds-supplychain-coverage/)
+- [Cisco Talos: Threat Advisory: NSA SVR Advisory Coverage](https://blog.talosintelligence.com/nsa-svr-coverage/)
+- [Google/Mandiant: Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://cloud.google.com/blog/topics/threat-intelligence/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor)
+- [Bleeping Computer: The SolarWinds cyberattack: The hack, the victims, and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
+- [Microsoft: Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/en-us/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+- [Microsoft: Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop](https://www.microsoft.com/en-us/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
+- [Crowdstrike: SUNSPOT: An Implant in the Build Process](https://www.crowdstrike.com/en-us/blog/sunspot-malware-technical-analysis/)
+- [Crowdstrike: Early Bird Catches the Wormhole: Observations from the StellarParticle Campaign](https://www.crowdstrike.com/en-us/blog/observations-from-the-stellarparticle-campaign/)
 
 - [List of DGA FQDNs culled by John Bambenek for tracking SUNBURST C2 domains](https://github.com/bambenek/research/blob/main/sunburst/uniq-hostnames.txt)
 
 ###  Cloud Tenant Attacks 2022-2024
-- [Russian APT29 hackers' stealthy malware undetected for years](https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-stealthy-malware-undetected-for-years/)
+- [Bleeping Computer: Russian APT29 hackers' stealthy malware undetected for years](https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-stealthy-malware-undetected-for-years/)
 - [CISA: SVR Cyber Actors Adapt Tactics for Initial Cloud Access](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-057a)
 
 ### Diplomatic & Political Attacks 2023-Present
-- [Renewed APT29 Phishing Campaign Against European Diplomats](https://research.checkpoint.com/2025/apt29-phishing-campaign/)
-- [Backchannel Diplomacy: APT29’s Rapidly Evolving Diplomatic Phishing Operations](https://cloud.google.com/blog/topics/threat-intelligence/apt29-evolving-diplomatic-phishing)
-- [APT29 Uses WINELOADER to Target German Political Parties](https://cloud.google.com/blog/topics/threat-intelligence/apt29-wineloader-german-political-parties)
+- [Checkpoint Research: Renewed APT29 Phishing Campaign Against European Diplomats](https://research.checkpoint.com/2025/apt29-phishing-campaign/)
+- [Google/Mandiant: Backchannel Diplomacy: APT29’s Rapidly Evolving Diplomatic Phishing Operations](https://cloud.google.com/blog/topics/threat-intelligence/apt29-evolving-diplomatic-phishing)
+- [Google/Mandiant: APT29 Uses WINELOADER to Target German Political Parties](https://cloud.google.com/blog/topics/threat-intelligence/apt29-wineloader-german-political-parties)
 
 ## Other Resources
 
